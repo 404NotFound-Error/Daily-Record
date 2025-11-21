@@ -7,3 +7,6 @@ Doing some editing to test the branch
 2025/11/20
 learning RSS
 https://feedly.com/
+
+2025/11/21
+successfully connect to the server and running the LLm on it
