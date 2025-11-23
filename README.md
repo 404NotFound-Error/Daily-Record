@@ -10,3 +10,7 @@ https://feedly.com/
 
 2025/11/21
 successfully connect to the server and running the LLm on it
+
+2025/11/23
+learning Regular Expression
+practice website: https://regex101.com/
