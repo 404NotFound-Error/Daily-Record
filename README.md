@@ -14,3 +14,7 @@ successfully connect to the server and running the LLm on it
 2025/11/23
 learning Regular Expression
 practice website: https://regex101.com/
+
+2025/11/24
+learn the basics of memory management
+understand the principle of overriding virtual function tables
