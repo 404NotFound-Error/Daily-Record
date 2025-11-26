@@ -22,3 +22,8 @@ damn the test timeout, go to reddit for some memes
 learning binary tree, i'm starving why isn't class over yet?  
 
 
+2025/11/26
+need to learn BGE-Reasoner from https://github.com/FlagOpen/FlagEmbedding
+setting up the project environment
+feel so sleepy i reallly NEED some tea
+
