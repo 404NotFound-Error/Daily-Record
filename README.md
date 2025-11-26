@@ -26,4 +26,5 @@ learning binary tree, i'm starving why isn't class over yet?
 need to learn BGE-Reasoner from https://github.com/FlagOpen/FlagEmbedding  
 setting up the project environment  
 feel so sleepy i reallly NEED some tea  
+#environement variable: provide configuration information for operating system and programs, so they know paths, settings, or runtime parameters
 
