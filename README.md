@@ -28,3 +28,7 @@ setting up the project environment
 feel so sleepy i reallly NEED some tea  
 #environement variable: provide configuration information for operating system and programs, so they know paths, settings, or runtime parameters
 
+
+2025/11/27
+learning the basics of Diffie-Hellman key exchange
+#K=(other party's public key)^(your private key) mod p
