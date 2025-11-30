@@ -32,3 +32,6 @@ feel so sleepy i reallly NEED some tea
 2025/11/27
 learning the basics of Diffie-Hellman key exchange
 #K=(other party's public key)^(your private key) mod p
+
+2025/11/30  
+check out the basics of ports
