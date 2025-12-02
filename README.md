@@ -35,3 +35,11 @@ learning the basics of Diffie-Hellman key exchange
 
 2025/11/30  
 check out the basics of ports
+
+2025/12/2  
+practising my first assembly code(x86-64)  
+some configration include{  
+NASM (compile assembly code into 64-bit object files .o)  
+MSYS2 64-bit (provides a 64-bit GCC toolchain and Unix-like environment)  
+MinGW-w64 GCC 64-bit (link 64-bit object files to generate exe)  
+}  
