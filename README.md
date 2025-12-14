@@ -43,3 +43,6 @@ NASM (compile assembly code into 64-bit object files .o)
 MSYS2 64-bit (provides a 64-bit GCC toolchain and Unix-like environment)  
 MinGW-w64 GCC 64-bit (link 64-bit object files to generate exe)  
 }  
+
+2025/12/15  
+sufferred a lot from final week, find a good project and trying to deploy it: https://github.com/aws-samples/bedrock-chat  
