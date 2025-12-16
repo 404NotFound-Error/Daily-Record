@@ -46,3 +46,8 @@ MinGW-w64 GCC 64-bit (link 64-bit object files to generate exe)
 
 2025/12/15  
 sufferred a lot from final week, find a good project and trying to deploy it: https://github.com/aws-samples/bedrock-chat  
+
+2025/12/17  
+finally done the deployment, need to clean the stack, bucket & cache
+can access the chatbox
+
