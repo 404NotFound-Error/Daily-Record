@@ -58,3 +58,9 @@ update the frontend page with more features
 2025/12/27  
 learn the version control of git
 
+2026/1/3  
+try https://github.com/hect0x7/JMComic-Crawler-Python, it's a useful tool to get resources  
+read CSAPP p1-57  
+changed the IP whitelist in the AWS console but forgot to save, i'm an idiot
+
+
