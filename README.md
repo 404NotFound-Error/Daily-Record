@@ -63,4 +63,8 @@ try https://github.com/hect0x7/JMComic-Crawler-Python, it's a useful tool to get
 read CSAPP p1-57  
 changed the IP whitelist in the AWS console but forgot to save, i'm an idiot
 
+2026/1/4  
+create a new Astro frontend cause a friend wanna write a blog with me
+
+
 
