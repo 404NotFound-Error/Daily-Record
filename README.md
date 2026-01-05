@@ -67,8 +67,8 @@ changed the IP whitelist in the AWS console but forgot to save, i'm an idiot
 create a new Astro frontend cause a friend wanna write a blog with me  
 read CSAPP p58-63
 
-2026/1/5
-add some pages and style to the Astro frontend
+2026/1/5  
+add some pages and style to the Astro frontend  
 learning CSS style and some frontend/backend structure
 
 
