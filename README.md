@@ -71,4 +71,6 @@ read CSAPP p58-63
 add some pages and style to the Astro frontend  
 learning CSS style and some frontend/backend structure
 
+2026/1/6  
+read p1-30 in 'Programming in Haskell'  
 
