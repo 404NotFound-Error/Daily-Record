@@ -74,3 +74,5 @@ learning CSS style and some frontend/backend structure
 2026/1/6  
 read p1-30 in 'Programming in Haskell'  
 
+2026/1/7  
+read till p45 in Haskell  
