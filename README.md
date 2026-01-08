@@ -76,3 +76,7 @@ read p1-30 in 'Programming in Haskell'
 
 2026/1/7  
 read till p45 in Haskell  
+
+2026/1/8  
+learn basic searching algoritms  
+learn SAT
