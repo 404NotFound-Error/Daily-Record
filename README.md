@@ -80,3 +80,7 @@ read till p45 in Haskell
 2026/1/8  
 learn basic searching algoritms  
 learn SAT
+
+2026/1/10  
+writing CS hwk, the university fucks me every day  
+
