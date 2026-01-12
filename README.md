@@ -84,3 +84,7 @@ learn SAT
 2026/1/10  
 writing CS204 & 307 hwk, the university fucks me every day  
 found an interesting project, trying to analyze it: https://github.com/oho-lang/oho-interpreter
+
+2026/1/12  
+read till p55 in Haskell  
+write some API for univeristy website project
