@@ -88,3 +88,6 @@ found an interesting project, trying to analyze it: https://github.com/oho-lang/
 2026/1/12  
 read till p55 in Haskell  
 write some API for univeristy website project
+
+2026/1/13  
+i hate class on 8am  
