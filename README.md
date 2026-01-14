@@ -91,6 +91,10 @@ write some API for univeristy website project
 
 2026/1/13  
 i hate class on 8am  
-learn the informed & uninformed search this morning
+learn the informed & uninformed search this morning  
 read till p65 of Haskell  
 doing my group project, they decided to make a terminal-based Gomoku game
+finish writing the CNF solver  
+
+2026/1/14  
+the server login went wrong, i'll have group meeting this Friday so i start panic
