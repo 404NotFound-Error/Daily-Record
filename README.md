@@ -97,4 +97,8 @@ doing my group project, they decided to make a terminal-based Gomoku game
 finish writing the CNF solver  
 
 2026/1/14  
-the server login went wrong, i'll have group meeting this Friday so i start panic
+the server login went wrong, i'll have group meeting this Friday so i start panic  
+it's solved
+
+2026/1/15  
+learn local search, CSP, ExpectMax and Monte Carlo Tree Search in morning class  
