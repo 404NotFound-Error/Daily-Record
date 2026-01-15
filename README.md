@@ -101,4 +101,5 @@ the server login went wrong, i'll have group meeting this Friday so i start pani
 it's solved
 
 2026/1/15  
-learn local search, CSP, ExpectMax and Monte Carlo Tree Search in morning class  
+learn local search, CSP, ExpectMax and Monte Carlo Tree Search in morning class    
+i change a new user name so now the server can't recognize me, damn i have to set up the enviroment from beginning, luckly i learn a lot from this process
