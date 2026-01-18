@@ -106,3 +106,5 @@ i change a new user name so now the server can't recognize me, damn i have to se
 thank you so much to a junior student for helping me set up my server account, really learned a lot from him  
 switching bash to zshell  
 
+2026/1/18  
+getting tortured by hwk, damn why there's so much hwk
