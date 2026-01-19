@@ -108,4 +108,10 @@ switching bash to zshell
 
 2026/1/18  
 getting tortured by hwk, damn why there's so much hwk  
-learn Monte Carlo method 
+learn Monte Carlo method   
+
+2026/1/19  
+it Monday and i don't wanna get out of bed  
+read till p76 of Haskell  
+practise the Caesar cipher in Haskell
+
