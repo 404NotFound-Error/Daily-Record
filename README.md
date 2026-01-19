@@ -107,4 +107,5 @@ thank you so much to a junior student for helping me set up my server account, r
 switching bash to zshell  
 
 2026/1/18  
-getting tortured by hwk, damn why there's so much hwk
+getting tortured by hwk, damn why there's so much hwk  
+learn Monte Carlo method 
