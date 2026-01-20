@@ -115,3 +115,7 @@ it Monday and i don't wanna get out of bed
 read till p76 of Haskell  
 practise the Caesar cipher in Haskell
 
+2026/1/20  
+test the reranker and use huggingface model instead of llamaindex api  
+learn the basic of probability on morning class
+
