@@ -1,5 +1,5 @@
 # Daily Record
-I'm a university student who just begin learning computer science. It's a testing repository I create to practise some basic github operations, and feel free to leave any comments, thoughs, ideas!
+I'm a over-whelmed university freshman who just begin learning computer science. It's a testing repository I create to practise some basic github operations, and feel free to leave any comments, thoughs, ideas!
 
 2025/11/19 0:08  
 Doing some editing to test the branch  
@@ -118,4 +118,7 @@ practise the Caesar cipher in Haskell
 2026/1/20  
 test the reranker and use huggingface model instead of llamaindex api  
 learn the basic of probability on morning class
+
+2026/1/21  
+solved problem #88 Sorted Array on LeetCode
 
