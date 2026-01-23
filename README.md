@@ -122,3 +122,9 @@ learn the basic of probability on morning class
 2026/1/21  
 solved problem #88 Sorted Array on LeetCode
 
+2026/1/22  
+learning Bayes net and independence on class  
+solve problem #96 the binary serch tree on leetcode
+
+
+
