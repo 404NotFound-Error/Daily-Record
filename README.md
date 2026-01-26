@@ -126,5 +126,7 @@ solved problem #88 Sorted Array on LeetCode
 learning Bayes net and independence on class  
 solve problem #96 the binary serch tree on leetcode
 
+2026/1/26  
+read till p95 of haskell
 
 
