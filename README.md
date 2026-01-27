@@ -130,6 +130,7 @@ solve problem #96 the binary serch tree on leetcode
 read till p95 of haskell
 
 2026/1/27  
-take midterm of CS204 this morning, finally get it done!
+take midterm of CS204 this morning, finally get it done!  
+wrote #75 & #1061 on leetcode  
 
 
