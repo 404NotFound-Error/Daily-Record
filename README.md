@@ -134,3 +134,6 @@ take midterm of CS204 this morning, finally get it done!
 wrote #75 & #1061 on leetcode  
 
 
+2026/1/28  
+successfully run Arch on vmware!!!
+
