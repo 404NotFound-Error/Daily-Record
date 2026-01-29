@@ -137,3 +137,6 @@ wrote #75 & #1061 on leetcode
 2026/1/28  
 successfully run Arch on vmware!!!
 
+2026/1/29  
+get my second-hand trading group task done at 4am. so i'm feeling sleepy this morning class  
+do #2731 of leetcode  
