@@ -140,3 +140,6 @@ successfully run Arch on vmware!!!
 2026/1/29  
 get my second-hand trading group task done at 4am. so i'm feeling sleepy this morning class  
 do #2731 of leetcode  
+
+2026/1/30  
+do #1115 of leetcode, the BlockingQueue is quite interesting
