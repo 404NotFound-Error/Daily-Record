@@ -155,3 +155,4 @@ try Adobe Illustrator
 2026/2/3  
 write #3044 on leetcode, damn it got so much details  
 designing logo on Illustrator  
+read csapp p63-65
