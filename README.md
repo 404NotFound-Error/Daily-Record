@@ -149,4 +149,5 @@ do #679 on leetcode, it's the first "hard" problem i solve on it
 getting pocket money for Feb, guys i survived another month (having instant noodles at the last week of Jan cause i spent too much on steam)    
 
 2026/2/2  
-write #3115 on leetcode
+write #3115 on leetcode  
+try Adobe Illustrator
