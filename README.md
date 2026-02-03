@@ -151,3 +151,7 @@ getting pocket money for Feb, guys i survived another month (having instant nood
 2026/2/2  
 write #3115 on leetcode  
 try Adobe Illustrator
+
+2026/2/3  
+write #3044 on leetcode, damn it got so much details  
+designing logo on Illustrator  
