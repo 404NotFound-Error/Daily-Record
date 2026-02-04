@@ -156,3 +156,7 @@ try Adobe Illustrator
 write #3044 on leetcode, damn it got so much details  
 designing logo on Illustrator  
 read csapp p63-65
+
+2026/2/4  
+write leetcode #3770  
+my first time to become student worker in campus
