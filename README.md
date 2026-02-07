@@ -162,4 +162,5 @@ write leetcode #3770
 my first time to become student worker in campus  
 
 2026/2/6  
-my stomach flu is back, on my way to hospital
+my stomach flu is back, on my way to hospital  
+practise blender ocean, the tutorial is nice: https://www.youtube.com/watch?v=oysCSbhXYBo
