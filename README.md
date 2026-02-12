@@ -164,3 +164,7 @@ my first time to become student worker in campus
 2026/2/6  
 my stomach flu is back, on my way to hospital  
 practise blender ocean, the tutorial is nice: https://www.youtube.com/watch?v=oysCSbhXYBo
+
+2026/2/12  
+the exam fucks me last week so I didn't update this  
+learning Bellman equation and Temporal Difference Learning(TD) in Reinforcement Learning  
