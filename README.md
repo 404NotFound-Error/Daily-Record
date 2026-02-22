@@ -168,3 +168,8 @@ practise blender ocean, the tutorial is nice: https://www.youtube.com/watch?v=oy
 2026/2/12  
 the exam fucks me last week so I didn't update this  
 learning Bellman equation and Temporal Difference Learning(TD) in Reinforcement Learning  
+
+2026/2/22  
+learning Ink: https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md  
+read haskell till p182, the functional programming sucks  
+decide to make a game with my classmate
