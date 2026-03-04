@@ -175,4 +175,5 @@ read haskell till p182, the functional programming sucks
 decide to make a game with my classmate
 
 2026/3/4  
-practise the lightning in blender, the totorial: https://www.youtube.com/watch?v=jb6kqizu01I
+practise the lightning in blender, the totorial: https://www.youtube.com/watch?v=jb6kqizu01I    
+watch UE5 totorial till 40min, totorial: https://www.youtube.com/watch?v=k-zMkzmduqI&t=1923s
