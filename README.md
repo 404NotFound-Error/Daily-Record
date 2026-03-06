@@ -180,3 +180,4 @@ watch UE5 totorial till 40min, totorial: https://www.youtube.com/watch?v=k-zMkzm
 
 2026/3/5  
 writing the game storyline about an ancient relic  
+learn how to use Photoshop, draw my first painting 
