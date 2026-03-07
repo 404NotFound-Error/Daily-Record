@@ -185,3 +185,6 @@ learn how to use Photoshop, draw my first painting
 2026/3/6  
 update the frontend with Fuuraiko  
 discuss the game storyline with friend
+
+2026/3/7  
+find a good website that integrates different AI painting software: https://askgo.ai/home  
