@@ -188,3 +188,7 @@ discuss the game storyline with friend
 
 2026/3/7  
 find a good website that integrates different AI painting software: https://askgo.ai/home  
+
+2026/3/8  
+read till csapp p68  
+discuss game setting with friend
