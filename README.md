@@ -192,3 +192,6 @@ find a good website that integrates different AI painting software: https://askg
 2026/3/8  
 read till csapp p68  
 discuss game setting with friend
+
+2026/3/9  
+read csapp till p74
