@@ -195,3 +195,6 @@ discuss game setting with friend
 
 2026/3/9  
 read csapp till p74
+
+2026/3/12  
+using UE5 to make game, totorial: https://www.youtube.com/watch?v=r-8N64xSlFE
